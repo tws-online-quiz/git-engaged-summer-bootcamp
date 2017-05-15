@@ -11,11 +11,11 @@
 用户在本地做完每道编程题后在此标签内提交编程题的github地址
 ### 运行结果
 - 用户在提交题目后，系统会自行进行处理
-![Alt text](http://static.zybuluo.com/zhongjianxin/lj8h3lflbkti32vkydk7w776/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/lrcornysit0irzxa84uh11fe/4.jpg)
 - 若结果正确，则下一题解锁，用户继续完成下一题目
-![Alt text](http://static.zybuluo.com/zhongjianxin/q0lb5otgohrahms1x3ykllbh/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/nqfbczviajqbez20hon7akiw/2.jpg)
 - 若错误，请继续完成本题目，直至正确或答题超时
-![Alt text](http://static.zybuluo.com/zhongjianxin/ayll6kghdfl0ti7rxum17wkt/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/yjo2ywupbubzwg68brmodig1/3.jpg)
   
 ## 编程题答题注意事项
 - 每道题设有答题时间期限，超时后用户将失去答题资格
