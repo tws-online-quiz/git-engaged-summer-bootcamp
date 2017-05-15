@@ -10,7 +10,6 @@ NOTE：编程题模板库是便于用户的答题操作，根据题目的难易�
 提交作业标签内包含：
 **编程题模板库地址**，**github仓库地址**，**github仓库分支**
 ![Alt text](http://static.zybuluo.com/zhongjianxin/m7oobulo91885g0650t4b2gf/exam-system-instruction-ui.png)
-
 用户在本地做完每道编程题后在此标签内提交编程题的github地址
 ### 运行结果
 - 用户在提交题目后，系统会自行进行处理
@@ -26,18 +25,14 @@ NOTE：编程题模板库是便于用户的答题操作，根据题目的难易�
 - 因题目难度不同，**题目运行结果时间不定**，请耐心等待
 - 因题目难度不同，**编程题模板库可能不提供**
 
----------------------------------------------------
-#以下为本题内容
-
+# 以下为本题内容
 ## 题目要求
 - 请在开始答题后 `7` 天内完成,逾期将无法再答题
-
 #### 题目描述
 根据如下顺序完成题目：
 - 请新建一个github账户
 - 请初始化一个github仓库
 - 请在该库内新建一个名为`HELLOWORLD.md`的文件，并保证测试通过
-
 ## 答题流程
 1. 请用户仔细阅读题目要求和题目描述
 2. 使用以下命令初始化git（如果不会使用git和github，请先学习参考资料的内容）
@@ -49,26 +44,19 @@ git init
  git remote add origin url
 ```
 4. 请使用**git提交(commit)**并**上传(push)**，之后将此github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到提交地址一栏 
-
 5. 获取分支
-
 6. 提交
-
 7. 等待结果
-
 ## 考察要点
 - github仓库的使用
 - git基础
-
 ## 编程题模板库地址
 本题不存在编程题模板库地址
-
 ## 参考资料
 1. [Git for Windows](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/02.md)
 2. [try git](https://try.github.io/levels/1/challenges/1)
 3. [Git 参考手册](http://gitref.org/zh/index.html)
 4. [github用法](https://guides.github.com/activities/hello-world/)
 
-
-
-
+![Alt text](http://static.zybuluo.com/zhongjianxin/xixspyics0snvp7psbv61mss/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/9ist8gnc8iz1zwyb9krll9jx/exam-run.png)
