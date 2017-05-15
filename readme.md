@@ -7,15 +7,15 @@
 ### 提交作业
 提交作业标签内包含：
 **编程题模板库地址**，**github仓库地址**，**github仓库分支**
-![Alt text](http://static.zybuluo.com/zhongjianxin/m7oobulo91885g0650t4b2gf/exam-system-instruction-ui.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/f3ksltj3a2llfkgwyhkvgmrs/image.png)
 用户在本地做完每道编程题后在此标签内提交编程题的github地址
 ### 运行结果
 - 用户在提交题目后，系统会自行进行处理
-![Alt text](http://static.zybuluo.com/zhongjianxin/du7fov4cwwteoxnaql6muzka/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/lj8h3lflbkti32vkydk7w776/image.png)
 - 若结果正确，则下一题解锁，用户继续完成下一题目
-![Alt text](http://static.zybuluo.com/zhongjianxin/05zq2lez577wggikzln8dl5j/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/q0lb5otgohrahms1x3ykllbh/image.png)
 - 若错误，请继续完成本题目，直至正确或答题超时
-![Alt text](http://static.zybuluo.com/zhongjianxin/cysqrq9e6b9l6rijc15jagm9/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/ayll6kghdfl0ti7rxum17wkt/image.png)
   
 ## 编程题答题注意事项
 - 每道题设有答题时间期限，超时后用户将失去答题资格
@@ -42,8 +42,6 @@
 3. [Git 参考手册](http://gitref.org/zh/index.html)
 4. [github用法](https://guides.github.com/activities/hello-world/)
 
-#
-
 ## 答题流程
 - 请用户仔细阅读题目要求和题目描述
 
@@ -69,7 +67,6 @@ src   //源文件
 - 等待结果
 
 ## 如何本地运行
-
 首先初次下载完需要安装依赖：
 
 ```
@@ -81,6 +78,5 @@ src   //源文件
 ```
   npm test
 ```
-
 可以通过测试来检测本地代码是否完成作业要求，测试通过即可提交到github，把git库地址填到答题页面，并提交表单。
 
