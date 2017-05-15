@@ -5,7 +5,11 @@
 ![All text](http://static.zybuluo.com/zhongjianxin/u6p1ant46n7jri1891kg4kvn/image.png)
 ![Alt text](http://static.zybuluo.com/zhongjianxin/xixspyics0snvp7psbv61mss/image.png)
 ![Alt text](http://static.zybuluo.com/zhongjianxin/9ist8gnc8iz1zwyb9krll9jx/exam-run.png)
-
+NOTE：编程题模板库是便于用户的答题操作，根据题目的难易程度可能提供或者不提供
+### 提交作业
+提交作业标签内包含：
+**编程题模板库地址**，**github仓库地址**，**github仓库分支**
+![Alt text](http://static.zybuluo.com/zhongjianxin/m7oobulo91885g0650t4b2gf/exam-system-instruction-ui.png)
 
 #以下为本题内容
 
