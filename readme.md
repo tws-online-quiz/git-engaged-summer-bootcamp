@@ -1,4 +1,10 @@
+## 编程题答题说明
+点击编程题进入答题页面后，您可以看到导航栏处三个标签，分别为：**题目说明**，**提交作业**，**运行结果**
+### 题目说明
+题目说明标签内包含：
 ![All text](http://static.zybuluo.com/zhongjianxin/u6p1ant46n7jri1891kg4kvn/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/xixspyics0snvp7psbv61mss/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/9ist8gnc8iz1zwyb9krll9jx/exam-run.png)
 
 
 #以下为本题内容
@@ -11,7 +17,6 @@
 - 请新建一个github账户
 - 请初始化一个github仓库
 - 请在该库内新建一个名为`HELLOWORLD.md`的文件，并保证测试通过
-
 
 ## 答题流程
 1. 请用户仔细阅读题目要求和题目描述
@@ -44,8 +49,6 @@ git init
 3. [Git 参考手册](http://gitref.org/zh/index.html)
 4. [github用法](https://guides.github.com/activities/hello-world/)
 
-
-
 ## 答题流程
 - 请用户仔细阅读题目要求和题目描述
 
@@ -69,7 +72,6 @@ src   //源文件
 - 获取分支
 - 提交
 - 等待结果
-
 
 ## 如何本地运行
 
