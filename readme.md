@@ -7,7 +7,7 @@
 ### 提交作业
 提交作业标签内包含：
 **编程题模板库地址**，**github仓库地址**，**github仓库分支**
-![Alt text](http://static.zybuluo.com/zhongjianxin/f3ksltj3a2llfkgwyhkvgmrs/image.png)
+![Alt text](http://static.zybuluo.com/zhongjianxin/3zviwytdqu37lgfta8o0ff32/1.jpg)
 用户在本地做完每道编程题后在此标签内提交编程题的github地址
 ### 运行结果
 - 用户在提交题目后，系统会自行进行处理
