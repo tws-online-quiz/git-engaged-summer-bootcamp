@@ -11,6 +11,15 @@ NOTE：编程题模板库是便于用户的答题操作，根据题目的难易�
 **编程题模板库地址**，**github仓库地址**，**github仓库分支**
 ![Alt text](http://static.zybuluo.com/zhongjianxin/m7oobulo91885g0650t4b2gf/exam-system-instruction-ui.png)
 
+用户在本地做完每道编程题后在此标签内提交编程题的github地址
+### 运行结果
+- 用户在提交题目后，系统会自行进行处理
+![Alt text](http://static.zybuluo.com/zhongjianxin/du7fov4cwwteoxnaql6muzka/image.png)
+- 若结果正确，则下一题解锁，用户继续完成下一题目
+![Alt text](http://static.zybuluo.com/zhongjianxin/05zq2lez577wggikzln8dl5j/image.png)
+- 若错误，请继续完成本题目，直至正确或答题超时
+![Alt text](http://static.zybuluo.com/zhongjianxin/cysqrq9e6b9l6rijc15jagm9/image.png)
+
 #以下为本题内容
 
 ## 题目要求
