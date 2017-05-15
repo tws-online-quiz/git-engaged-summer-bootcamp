@@ -1,15 +1,11 @@
 const main = require('../main/main');
+const fs = require('fs')
 
-describe('main()', () => {
+describe('validate the file exist', () => {
 
-    it('should console log "Debug Info"', () => {
-        spyOn(console, 'log');
-        main();
-        expect(console.log).toHaveBeenCalledWith('Debug Info');
-    });
-
-    it('should return "Hello World!"', () => {
-        let actual = main();
-        expect(actual).toBe('Hello World!');
+    it('should get HELLOWORLD.md exist in root folder like readme.md', () => {
+        fs.exists('./HELLOWORLD.md', (isExist) => {
+            expect(isExist).toBe(true);
+        })
     });
 });
