@@ -2,9 +2,7 @@
 点击编程题进入答题页面后，您可以看到导航栏处三个标签，分别为：**题目说明**，**提交作业**，**运行结果**
 ### 题目说明
 题目说明标签内包含：
-![All text](http://static.zybuluo.com/zhongjianxin/u6p1ant46n7jri1891kg4kvn/image.png)
-![Alt text](http://static.zybuluo.com/zhongjianxin/xixspyics0snvp7psbv61mss/image.png)
-![Alt text](http://static.zybuluo.com/zhongjianxin/9ist8gnc8iz1zwyb9krll9jx/exam-run.png)
+
 NOTE：编程题模板库是便于用户的答题操作，根据题目的难易程度可能提供或者不提供
 ### 提交作业
 提交作业标签内包含：
